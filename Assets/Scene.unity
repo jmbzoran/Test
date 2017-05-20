@@ -1441,7 +1441,7 @@ GameObject:
   - 50: {fileID: 1895282832}
   - 114: {fileID: 1895282831}
   m_Layer: 8
-  m_Name: obstacle (11)
+  m_Name: obstacle (11)kk
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
